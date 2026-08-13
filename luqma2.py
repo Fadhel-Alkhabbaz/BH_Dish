@@ -822,21 +822,3 @@ with tab3:
             'cooked.'
         )
 
-
-# ============================================================
-# SIDEBAR
-# ============================================================
-
-with st.sidebar:
-
-    st.subheader('🍛 Luqma')
-
-    st.write(
-        'Bahraini Food Recognition App'
-    )
-
-    st.markdown('---')
-
-    st.write(
-        'Choose a tab above to explore the application.'
-    )
