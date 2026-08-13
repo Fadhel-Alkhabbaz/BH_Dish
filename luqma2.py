@@ -382,8 +382,7 @@ with tab2:
 
     option = st.radio(
         'Choose an option:',
-        ['📁 Upload Image', '📷 Take a Picture',
-         '🎥 Upload Video', '🎬 Record a Video']
+        ['📁 Upload Image', '📷 Take a Picture',]
     )
 
 
