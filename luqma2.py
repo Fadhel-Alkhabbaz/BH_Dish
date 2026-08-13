@@ -6,7 +6,6 @@ from pathlib import Path
 from ultralytics import YOLO
 import tempfile
 import av
-from streamlit_webrtc import (webrtc_streamer, WebRtcMode, VideoProcessorBase)
 
 # ============================================================
 # PAGE CONFIGURATION
