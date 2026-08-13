@@ -40,5 +40,6 @@ The model is trained to recognize **10 iconic Bahraini dishes**:
 * **🏠 About Luqma:** Overview of the project, introduction video, and quick reference guide for Bahraini dishes.
 * **🍛 Food Recognition:**
   * 📁 **Upload Image:** Upload `.jpg`, `.jpeg`, or `.png` food images to run detection.
+  * 📷 **Camera Input:** Snap a live photo directly using your webcam/device camera.
  
 
